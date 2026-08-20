@@ -92,48 +92,48 @@
   if (pick) {
     var GAMES = {
       wz: {
-        img: "unreal.webp", alt: "cheat warzone",
+        img: "https://hack-gaming.fr/unreal.webp", alt: "cheat warzone",
         count: "3 packs disponibles",
         name: "Call of Duty : Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, spoofer ranked & triggerbot. 100 % à l'épreuve du streaming.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Voir les packs Warzone →", href: "cheat-warzone.html",
+        cta: "Voir les packs Warzone →", href: "https://hack-gaming.fr/cheat-warzone.html",
         glow: "59,130,246"
       },
       arc: {
-        img: "arc-ghost.webp", alt: "cheat arc rider pc",
+        img: "https://hack-gaming.fr/arc-ghost.webp", alt: "cheat arc rider pc",
         count: "3 packs disponibles",
         name: "ARC Raiders",
         desc: "Aimbot, ESP joueurs & robots, loot & extraction ESP, triggerbot et spoofer HWID.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Voir les packs ARC Raiders →", href: "cheat-arc-rider.html",
+        cta: "Voir les packs ARC Raiders →", href: "https://hack-gaming.fr/cheat-arc-rider.html",
         glow: "245,158,11"
       },
       fn: {
-        img: "fn-delta.webp", alt: "cheat fortnite",
+        img: "https://hack-gaming.fr/fn-delta.webp", alt: "cheat fortnite",
         count: "2 packs disponibles",
         name: "Fortnite",
         desc: "Aimbot personnalisé, ESP joueurs, loot & coffres ESP, spoofer HWID + cleaner.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Voir les packs Fortnite →", href: "cheat-fortnite.html",
+        cta: "Voir les packs Fortnite →", href: "https://hack-gaming.fr/cheat-fortnite.html",
         glow: "139,92,246"
       },
       val: {
-        img: "valorant-maxim.webp", alt: "cheat valorant pc",
+        img: "https://hack-gaming.fr/valorant-maxim.webp", alt: "cheat valorant pc",
         count: "1 pack disponible",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot et spoofer HWID. Indétectable et 100 % stream proof.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Voir le pack Valorant →", href: "cheat-valorant.html",
+        cta: "Voir le pack Valorant →", href: "https://hack-gaming.fr/cheat-valorant.html",
         glow: "255,70,85"
       },
       tk: {
-        img: "tarkov-reaper.webp", alt: "cheat tarkov pc",
+        img: "https://hack-gaming.fr/tarkov-reaper.webp", alt: "cheat tarkov pc",
         count: "1 pack disponible",
         name: "Escape from Tarkov",
         desc: "Aimbot, ESP joueurs & scavs, loot et extraction ESP, spoofer HWID. Prêt à déployer.",
         price: "389 €", consoles: "🖥️ PC",
-        cta: "Voir le pack Tarkov →", href: "cheat-tarkov.html",
+        cta: "Voir le pack Tarkov →", href: "https://hack-gaming.fr/cheat-tarkov.html",
         glow: "166,154,70"
       }
     };

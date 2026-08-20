@@ -96,7 +96,7 @@
         count: "3 packs disponibles",
         name: "Call of Duty : Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, spoofer ranked & triggerbot. 100 % à l'épreuve du streaming.",
-        price: "89 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Voir les packs Warzone →", href: "cheat-warzone.html",
         glow: "59,130,246"
       },
@@ -105,7 +105,7 @@
         count: "3 packs disponibles",
         name: "ARC Raiders",
         desc: "Aimbot, ESP joueurs & robots, loot & extraction ESP, triggerbot et spoofer HWID.",
-        price: "89 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Voir les packs ARC Raiders →", href: "cheat-arc-rider.html",
         glow: "245,158,11"
       },
@@ -114,7 +114,7 @@
         count: "2 packs disponibles",
         name: "Fortnite",
         desc: "Aimbot personnalisé, ESP joueurs, loot & coffres ESP, spoofer HWID + cleaner.",
-        price: "89 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Voir les packs Fortnite →", href: "cheat-fortnite.html",
         glow: "139,92,246"
       },
@@ -123,7 +123,7 @@
         count: "1 pack disponible",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot et spoofer HWID. Indétectable et 100 % stream proof.",
-        price: "99 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Voir le pack Valorant →", href: "cheat-valorant.html",
         glow: "255,70,85"
       },
@@ -132,7 +132,7 @@
         count: "1 pack disponible",
         name: "Escape from Tarkov",
         desc: "Aimbot, ESP joueurs & scavs, loot et extraction ESP, spoofer HWID. Prêt à déployer.",
-        price: "99 €", consoles: "🖥️ PC",
+        price: "389 €", consoles: "🖥️ PC",
         cta: "Voir le pack Tarkov →", href: "cheat-tarkov.html",
         glow: "166,154,70"
       }
